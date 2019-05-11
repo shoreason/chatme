@@ -1,2 +1,2 @@
 # chatme
-Basic Implementation of a ChatBot using NLTK and Keras
+Basic Implementation of a Conversational AI using NLTK and Keras to recognize intent by classifying user input 
