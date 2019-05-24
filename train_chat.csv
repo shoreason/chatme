@@ -1,0 +1,23 @@
+text,intent
+Hi there,0
+How are you,0
+Is anyone there?,0
+Hello,0
+Good day,0
+Bye,1
+See you later,1
+Goodbye,1
+Nice chatting to you bye,1
+Till next time,1
+Thanks,2
+Thank you,2
+That's helpful,2
+Awesome thanks,2
+Thanks for helping me,2
+ ,3
+How you could help me?,4
+What you can do?,4
+What help you provide?,4
+How you can be helpful?,4
+What support is offered,4
+How to check Adverse drug reaction?,5
